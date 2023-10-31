@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>mavenTest</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>mavenTest</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -117,7 +117,7 @@
 <!--	</scm>-->
 
 	<scm>
-		<developerConnection>scm:git:https://github.com/wangjing9548/mavenTest.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:wangjing9548/mavenTest.git</developerConnection>
 	  <tag>mavenTest-0.0.1</tag>
   </scm>
 
